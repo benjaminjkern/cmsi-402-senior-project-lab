@@ -1,0 +1,23 @@
+
+
+Software Development Plan Document
+CMSI 402 -- CrowdVenture Project
+======================================
+
+Lovely job on this document, Ben!
+
+Just one comment:
+
+The project deliverables section is supposed to show PROJECT deliverables,
+not CLASS deliverables.  All the things you have listed are most assuredly
+due for the class, but the intent is for this section to show the PROJECT
+deliverables, the things that you have listed in your Gantt chart, with a
+brief explanation of each.
+
+Other than that, everything looks good!  Nice job!
+
+Make the indicated changes by the end of the semester and you'll have 
+full credit on this portion of the project.
+
+
+

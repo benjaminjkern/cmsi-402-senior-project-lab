@@ -1,0 +1,60 @@
+
+
+Software Requirements Specification
+CMSI 402 -- CrowdVenture Project
+======================================
+
+Good start on this document, Ben!
+
+Just a few comments:
+
+You have the requirements language down pretty well, but you need quite a
+few more functional requirements.  For a project of this nature you'd be
+expected to have [in the industry] probably between 50 and 75 of them.  I
+also notice that you have multiple requirements under a single paragraph
+number ~ this may not be obvious, but when you have a requirement like:
+
+  "The screen shall be comprised of information describing an artificial
+   situation, along with a list of both canon options and non-canon options."
+
+...that should actually be three separate requirements:
+
+  "The screen shall be comprised of information describing an artificial
+   situation."
+
+  "The screen shall be comprised of information containing a list of canon
+   options."
+
+  "The screen shall be comprised of information containing a list of
+   non-canon options."
+
+However, since this is CMSI 402, and not 401, you can re-write all these
+requirements as "user stories" which will cut down on the amount.  Try to
+follow a format that says:
+
+  "As a <user-role> I want to <some_activity> so that <some_outcome>"
+
+For example, for your GUI section, you should have several user stories
+which look something like:
+
+  "As a CrowdVenture user, I want to see information describing an artificial
+   situation, so that I can decide what to do next."
+
+I hope that's clear.
+
+For your Administrative backend, I think having only one requirement or user
+story [either way] is WAY too little.  There has to be more functionality
+associated with the admin panel operations, right?
+
+Try not to use "weasel words" like "proper" administration, because they
+are ambiguous.  What is "proper" anyhow?  Proper to whom?  They call 'em
+weasel words because it looks like you're trying to weasel out of something.
+I'm not saying that's true here, but in the industry that's the context.
+
+Otherwise, nice job!
+
+Make the indicated changes by the end of the semester and you'll have 
+full credit on this portion of the project.
+
+
+
