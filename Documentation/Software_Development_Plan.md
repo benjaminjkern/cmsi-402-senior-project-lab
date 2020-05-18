@@ -19,7 +19,7 @@
 
 ## 1. Plan Introduction
 
-This Software Development Plan provides the details of the planned development for the Crowdventure software, which provides an application that will allow users to play a crowd-sourced choose your own adventure game
+This Software Development Plan provides the details of the planned development for the Crowdventure software, which provides an application that will allow users to play a crowd-sourced Choose-Your-Own-Adventure game.
 
 ### 1.1. Project Deliverables
 
