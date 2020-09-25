@@ -38,3 +38,7 @@ Still needed:
          date TBD
       Final Presentation ~ schedule to present WITH CMSI 401 class
          date TBD
+
+   List of additional items to add to the application
+      add to SDD
+      add preliminary schedule
