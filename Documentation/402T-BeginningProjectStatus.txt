@@ -1,0 +1,40 @@
+
+
+Ben Kern CMSI 402T Fall 2020
+Individual Project
+
+"crowdventure"
+
+Project status at beginning of term
+===================================
+
+Already completed:
+   Software Requirements Specification [SRS]
+      feedback provided ~ still need to incorporate
+
+   Software Development Plan [SDP]
+      feedback provided ~ still need to incorporate
+
+   Software Design Description [SDD]
+      reviewed and approved Fall 2020
+
+   Project Proposal document
+      was approved Spring 2020
+
+   Project Poster
+      was approved Spring 2000
+
+Still needed:
+   Project Proposal Presentation
+      need the slide deck from your presentation
+
+   Software Test Plan/Procedure
+      need to write this document for 402
+
+   Project Presentations
+      PDR ~ schedule to present to CMSI 401 class
+         date TBD
+      ABCDR ~ schedule to present WITH CMSI 401 class
+         date TBD
+      Final Presentation ~ schedule to present WITH CMSI 401 class
+         date TBD
