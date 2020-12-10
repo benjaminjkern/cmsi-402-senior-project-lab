@@ -23,37 +23,25 @@ This Software Development Plan provides the details of the planned development f
 
 ### 1.1. Project Deliverables
 
-#### 1.1.1. Software Requirements Document
+#### 1.1.1. Initial Alpha Release
 
-Due: 2/10/2020
+Target Date: June 2020
 
-The Software Requirements Specification is to be turned in to the instructor and contain details about the low-level requirements of the Crowdventure project. Specifically, this document will contain an introduction, the breakdown of the CSCI components, functional requirements, performance requirements, and requirements for the project, development, and execution environments. It outlines the gritty details of the contract of the functionality of the application agreed upon between developer (student) and client (instructor).
+The Initial Alpha Release of Crowdventure depends only on having a basic front end and a working backend that hooks up to the database hosted by AWS cognito.
+the backend shall be put into an AWS lambda function, and the frontend shall be put up on a github page.
 
-#### 1.1.2. Software Development Plan
+#### 1.1.2. Public Beta Release
 
-Due: 3/2/2020
+Target Date: January 2021
 
-This document will detail the software development process that will be used throughout the production of the Crowdventure project, including details about the project deliverables, software and hardware resources, organization, and schedule.
+The Public Beta will be stable enough to handle multiple users from all over the internet using the application.
+The Crowdventure Public Beta will have load balancers on the backend, as well as extensive security features, and a (relatively) finalized frontend look.
 
-#### 1.1.3. Design Description Document
+#### 1.1.3. Public Official Release
 
-Due: 3/23/2020
+Target Date: TBD
 
-This document will contain current details on the planned implementation of the functionality specified in the Software Requirements Specification. This will require careful analysis of the project design and how the different elements interact and fit together.
-
-#### 1.1.4. Preliminary Presentation
-
-Due: 4/13/2020
-
-This presentation will act as an update to the class and instructor about the progress of the design of the Crowdventure project. It will provide a demonstration of the application’s uses in its Alpha or Beta level (nearing the final delivery of the completed application).
-
-#### 1.1.5. Final Project Delivery
-
-Due: 4/27/2020
-
-This presentation will act as an update to the class and instructor about the finalized version of Crowdventure at its formal delivery. It will contain details about the full functionality of the application, challenges the team faced in producing the application, and a demonstration of the use of the application.
-
-The delivery will contain the delivery of the entire finalized project, including its code, documentation, and a final report on the status of the final applications functionality.
+Once all of the bugs have been fixed and major features have been implemented, Crowdventure will be released publicly, with plans to have advertisements to be able to support the costs of the database and the domain name.
 
 ## 2. Project Resources
 
