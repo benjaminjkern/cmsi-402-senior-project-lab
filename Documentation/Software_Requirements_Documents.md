@@ -11,10 +11,11 @@
       2. Create Node Screen
       3. Suggest Action Screen
       4. User Information Screen
-   2. Functional Requirement n
+   2. Administrative Backend
+      1. Admin Panel
 3. Performance Requirements
-   1. Performance Requirement 1
-   2. Performance Requirement n
+   1. Database
+   2. Server
 4. Environment Requirements
    1. Development Environment Requirements
    2. Execution Environment Requirements
@@ -69,7 +70,7 @@ The performance of Crowdventure is largely dependent upon the database and serve
 
 #### 3.1.3. The database shall be as scalable as possible.
 
-### 3.n. Server
+### 3.2. Server
 
 The frontend of Crowdventure shall be able to access and manipulate the server(s) that Crowdventure is running on in a timely manner.
 

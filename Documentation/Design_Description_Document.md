@@ -13,12 +13,13 @@
    3. Architectural Design Diagrams
 3. CSC and CSU Descriptions
    1. Class Descriptions
-      1. Detailed Class Description 1
-         .
-         .
-         .
-      2. Detailed Class Description n
+      1. Node Class
+      2. Account Class
+      3. Choice Class
    2. Detailed Interface Descriptions
+      1. Home Component
+      2. Node Component
+      3. Account Component
    3. Detailed Data Structure Descriptions
    4. Detailed Design Diagrams
 4. Database Design and Description
